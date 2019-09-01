@@ -6,5 +6,4 @@ fun main() {
 
     println("Int: $a")
     println("Primeiro Char da string b é ${b.first()}")
-
 }
